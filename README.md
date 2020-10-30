@@ -13,5 +13,17 @@ przygotowana w ramach serwisu jest badanie emocji uzytkownika przy okazji wyswie
 swojego profilu, po to aby dopasowac znajdujace sie tresci. W tym przypadku
 jest to kolor wyswietlanego tła.
 
-Rejestracja uzytkownika
+## Rejestracja uzytkownika
+<img src="img/rejestracja.png" width="500" height="300" />
 
+## Logowanie
+<img src="img/login.png" width="500" height="300" />
+
+## Lista zakupów
+<img src="img/lista.png" width="500" height="300" />
+
+## Profil - zmiana koloru tła na podstawie zmiany emocji
+<img src="img/profil.png" width="500" height="300" />
+
+## Mozliwe emocje
+<img src="img/tlo.png" width="500" height="300" />
