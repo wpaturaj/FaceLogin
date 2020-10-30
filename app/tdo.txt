@@ -1,0 +1,4 @@
+1. Zrobienie zdjcia sobie w cv2
+2. Podlaczenie AWS
+3. Zmiana na polski napisow etc
+4. Koloryzacja wszystkiego

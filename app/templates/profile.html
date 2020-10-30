@@ -1,0 +1,17 @@
+<!-- templates/profile.html -->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+ <style>
+  .material-icons.orange600 { color: #FB8C00; }
+  div {
+  background-color: {{color}};
+	}
+</style>
+{% extends "base.html" %}
+
+{% block content %}
+<h1 class="title">
+  {{ name }}
+</h1>
+<img src={{pathToImg}} alt="Twoja twarz">
+{% endblock %}

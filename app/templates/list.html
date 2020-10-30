@@ -1,0 +1,25 @@
+<!-- templates/profile.html -->
+
+{% extends "base.html" %}
+
+{% block content %}
+<h1 class="title">
+ Twoja lista:
+</h1>
+
+<ul>
+{% for product in shopList %}
+    <li>
+        {{ product.content }}
+        <a href="/delete/{{ product.id_product }}">X</a>
+    </li>
+{% endfor %}
+</ul>
+
+
+<form action="/add" method="post">
+    <p><input type="text" name="content"></p>
+    <input type="submit" value="Dodaj ">
+</form>
+
+{% endblock %}
