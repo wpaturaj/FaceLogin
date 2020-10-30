@@ -27,3 +27,8 @@ jest to kolor wyswietlanego tła.
 
 ## Mozliwe emocje
 <img src="img/tlo.png" width="500" height="300" />
+
+
+# Papers
+F. Schroff, D. Kalenichenko, J. Philbin: FaceNet: A Unified Embedding for Face
+Recognition and Clustering. Google. 2015.
